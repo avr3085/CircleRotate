@@ -1,0 +1,6 @@
+Unity version - 2019.3
+
+
+This  project is created to demonstrate, how to rotate a gameobject around a circle of specific radius Manually.
+
+-> it is using a simple trignometric formula
